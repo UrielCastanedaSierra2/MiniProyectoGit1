@@ -1,0 +1,23 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #e6007e;
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.producto {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 280px;
+  background-color: #f9f9f9;
+}
